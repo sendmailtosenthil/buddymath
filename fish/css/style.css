@@ -1,8 +1,28 @@
-#gameBody{
+body {
     background: aliceblue;
 }
-#canGameArea {
-    width: 750px;
-    height: 325px;
-    background: lightskyblue;
+
+div {
+    padding: 1px;
+    border: 1px solid green;
+}
+
+div#screen {
+    width: 800px;
+    height: 350px;
+    margin: 1px;
+    float: left;
+}
+
+div#buy {
+    width: 20px;
+    margin: 1px;
+    position: relative;
+    float: right;
+}
+
+div#map{
+    width: 435px;
+    height: 350px;
+    float: right;
 }
