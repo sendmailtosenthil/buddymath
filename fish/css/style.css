@@ -1,0 +1,8 @@
+#gameBody{
+    background: aliceblue;
+}
+#canGameArea {
+    width: 750px;
+    height: 325px;
+    background: lightskyblue;
+}
